@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|c:\\users\\tiagomenesesfittipal\\desktop\\uc11-testes\\locafacil\\clinicaveterinaria\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|c:\\users\\tiagomenesesfittipal\\desktop\\uc11-testes\\locafacil\\clinicaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|c:\\users\\tiagomenesesfittipal\\desktop\\uc11-testes\\locafacil\\clinicaveterinaria\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|c:\\users\\tiagomenesesfittipal\\desktop\\uc11-testes\\locafacil\\clinicaveterinaria\\veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|solutionrelative:veterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|c:\\users\\tiagomenesesfittipal\\desktop\\uc11-testes\\locafacil\\clinicaveterinaria\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FABE11D-3798-6F69-0395-892C833DD7E3}|ClinicaVeterinaria.csproj|solutionrelative:tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Tutor.cs",
+              "RelativeDocumentMoniker": "Tutor.cs",
+              "ToolTip": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Tutor.cs",
+              "RelativeToolTip": "Tutor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:24:32.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veterinario.cs",
+              "DocumentMoniker": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Veterinario.cs",
+              "RelativeDocumentMoniker": "Veterinario.cs",
+              "ToolTip": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Veterinario.cs",
+              "RelativeToolTip": "Veterinario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:28:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:21:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:08:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TiagoMenesesFittipal\\Desktop\\UC11-Testes\\LocaFacil\\ClinicaVeterinaria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:57:03.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

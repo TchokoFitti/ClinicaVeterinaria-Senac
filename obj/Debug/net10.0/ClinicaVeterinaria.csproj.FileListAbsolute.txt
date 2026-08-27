@@ -1,0 +1,14 @@
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.exe
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.deps.json
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.dll
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.pdb
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.dll
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\refint\ClinicaVeterinaria.dll
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.pdb
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\TiagoMenesesFittipal\Desktop\UC11-Testes\LocaFacil\ClinicaVeterinaria\obj\Debug\net10.0\ref\ClinicaVeterinaria.dll
