@@ -8,12 +8,12 @@ namespace ClinicaVeterinaria
 {
     public class Animal
     {
-        private int _idAnimal;
-        public string? nomeAnimal;
-        public string? tipoAnimal;
-        public string? racaAnimal;
-        private string? _dataNascimento;
-        private string? _cpfTutor;
+        private int _idAnimal {  get; set; }
+        public string? nomeAnimal { get; set; }
+        public string? tipoAnimal { get; set; }
+        public string? racaAnimal { get; set; }
+        private string? _dataNascimento { get; set; }
+        private string? _cpfTutor {  get; set; }
 
         //public Animal(int ctID, string ctNome, string ctTipo, string ctRaca, string ctData, string ctCPF)
         //{

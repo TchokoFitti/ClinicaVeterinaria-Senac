@@ -7,7 +7,7 @@ namespace ClinicaVeterinaria
 {
     public class Tutor : Pessoa
     {
-        public string? cpf;
+        public string? cpf { get; set; }
 
         //public Tutor(string ctCpf, string ctNome, string ctTelefone, string ctEmail): base(ctNome, ctTelefone, ctEmail)
         //{
